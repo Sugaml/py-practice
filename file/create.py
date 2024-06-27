@@ -11,4 +11,5 @@ file_name = "somtu.txt"
 content = """Hello Students,
 Are you Happy?
 Goodbye!"""
+
 create_file(file_name, content)
